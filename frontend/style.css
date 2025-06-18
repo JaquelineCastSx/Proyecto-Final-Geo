@@ -141,3 +141,7 @@ tr:hover {
 .navbar a{
   text-decoration: none;
 }
+.table-container {
+  max-height: 60vh; 
+  overflow-y: auto;
+}
